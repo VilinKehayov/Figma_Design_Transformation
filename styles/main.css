@@ -1,3 +1,269 @@
+/* styles.scss */
+.container {
+  position: relative;
+  width: 1440px;
+  height: 2954px;
+  background: #FFFFFF;
+}
 
+.login-form {
+  position: absolute;
+  top: -1477px;
+  left: -717px;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.login-form h1 {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+.login-form form {
+  display: flex;
+  flex-direction: column;
+}
+.login-form form .form-group {
+  margin-bottom: 10px;
+}
+.login-form form .form-group label {
+  font-size: 16px;
+}
+.login-form form .form-group input {
+  padding: 10px;
+  font-size: 16px;
+}
+.login-form form button[type=submit] {
+  padding: 10px 20px;
+  background: #ff9c00;
+  color: #FFFFFF;
+  border: none;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.group460 {
+  position: absolute;
+  width: 45px;
+  height: 45px;
+  left: 1021px;
+  top: 2622px;
+  transform: rotate(90deg);
+  cursor: pointer;
+}
+
+.group321 {
+  position: absolute;
+  width: 70.96px;
+  height: 60.32px;
+  left: 684px;
+  top: 2692.96px;
+  transform: rotate(-90deg);
+  cursor: pointer;
+}
+
+.text-from2 {
+  position: absolute;
+  width: 30px;
+  height: 18px;
+  left: 918px;
+  top: 2637px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 18px;
+  color: #000000;
+}
+
+.text-str {
+  position: absolute;
+  width: 30px;
+  height: 18px;
+  left: 757px;
+  top: 2637px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 18px;
+  color: #000000;
+}
+
+.group459 {
+  position: absolute;
+  width: 105px;
+  height: 45px;
+  left: 800px;
+  top: 2622px;
+}
+
+.group458 {
+  position: absolute;
+  width: 44px;
+  height: 44px;
+  left: 988px;
+  top: 14px;
+}
+
+.group332 {
+  position: absolute;
+  width: 1440px;
+  height: 147px;
+  left: 0px;
+  top: 0px;
+}
+
+.group348 {
+  position: absolute;
+  width: 436px;
+  height: 609px;
+  left: 874px;
+  top: 1924px;
+}
+
+.group347 {
+  position: absolute;
+  width: 436px;
+  height: 609px;
+  left: 401px;
+  top: 1924px;
+}
+
+.rectangle98 {
+  position: absolute;
+  width: 477px;
+  height: 658px;
+  left: 855px;
+  top: 1902px;
+  background: #FFFFFF;
+  box-shadow: 2px 3px 20px rgba(0, 0, 0, 0.15);
+  border-radius: 20px;
+}
+
+.group345 {
+  position: absolute;
+  width: 436px;
+  height: 609px;
+  left: 401px;
+  top: 1253px;
+}
+
+.group344 {
+  position: absolute;
+  width: 436px;
+  height: 609px;
+  left: 874px;
+  top: 582px;
+}
+
+.iconsax-eye {
+  position: absolute;
+  width: 17px;
+  height: 17px;
+  left: 672px;
+  top: 1199px;
+  /* Add appropriate styles for the eye icon */
+}
+
+.group313 {
+  position: absolute;
+  width: 436px;
+  height: 609px;
+  left: 401px;
+  top: 582px;
+}
+
+.group179 {
+  position: absolute;
+  width: 195px;
+  height: 758px;
+  left: 146px;
+  top: 885px;
+}
+
+.group-196 {
+  position: absolute;
+  width: 215px;
+  height: 25px;
+  left: 607px;
+  top: 510px;
+}
+
+.group-342 {
+  position: absolute;
+  width: 1180px;
+  height: 191px;
+  left: 130px;
+  top: 282px;
+}
+
+.group-158 {
+  position: absolute;
+  width: 238px;
+  height: 210px;
+  left: 130px;
+  top: 623px;
+  border-radius: 0px 0px 0px 0px;
+  background-color: #C1C1C1;
+}
+
+.group-157 {
+  position: absolute;
+  width: 237px;
+  height: 45px;
+  left: 130px;
+  top: 554px;
+  border-radius: 50px;
+}
+
+.group-87 {
+  position: absolute;
+  width: 887px;
+  height: 45px;
+  left: 401px;
+  top: 499px;
+  border-radius: [object Object] px [object Object] px [object Object] px [object Object] px;
+  background-color: #777777;
+}
+
+.group-156 {
+  position: absolute;
+  width: 237px;
+  height: 45px;
+  left: 130px;
+  top: 499px;
+  border-radius: 50px;
+}
+
+.group-110 {
+  position: absolute;
+  width: 271px;
+  height: 45px;
+  left: 1039px;
+  top: 195px;
+}
+
+.vector-21 {
+  position: absolute;
+  width: 14.96px;
+  height: 6.32px;
+  left: 996.68px;
+  top: 2651.96px;
+  border: 2px solid #FFFFFF;
+  transform: rotate(-90deg);
+}
+
+.ellipse-16 {
+  position: absolute;
+  width: 45px;
+  height: 45px;
+  left: 1021px;
+  top: 2622px;
+  box-sizing: border-box;
+  background: rgba(23, 141, 235, 0.15);
+  border: 1px solid #008AEE;
+  transform: rotate(90deg);
+}
 
 /*# sourceMappingURL=main.css.map */
