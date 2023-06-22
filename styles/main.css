@@ -144,7 +144,7 @@
   left: 800px;
   top: 2622px;
 }
-.group459 .image-1 {
+.group459 .image-11 {
   position: absolute;
   width: 15px;
   height: 6.32px;
@@ -152,7 +152,7 @@
   top: 2641.37px;
   border: 2px solid #231f20;
 }
-.group459 .image-2 {
+.group459 .image-22 {
   position: absolute;
   width: 24px;
   height: 16px;
@@ -164,7 +164,7 @@
   line-height: 18px;
   color: #000000;
 }
-.group459 .image-3 {
+.group459 .image-33 {
   position: absolute;
   width: 105px;
   height: 45px;
@@ -222,12 +222,60 @@
   right: 24.51%;
   /* Additional styling for the YouTube icon */
 }
+.group332 .youtube-icon .polygon2 {
+  width: 13px;
+  height: 13px;
+  position: absolute;
+  left: 62.22%;
+  right: 8.89%;
+  top: 35.56%;
+  bottom: 35.56%;
+  background: #ffffff;
+  transform: rotate(90deg);
+  /* Additional styling for Polygon 2 */
+}
+.group332 .youtube-icon .vector {
+  width: 37.5px;
+  height: 30px;
+  position: absolute;
+  left: 3.75px;
+  top: 7.5px;
+  background: #c60b0f;
+  /* Additional styling for Vector */
+}
 .group332 .group331 {
   position: absolute;
   width: 140px;
   height: 37px;
   top: 89px;
   left: 911px;
+}
+.group332 .group331 .icon-linear-book {
+  width: 24px;
+  height: 24px;
+  top: 95px;
+  left: 928px;
+  position: absolute;
+  /* Add other styles for the group */
+}
+.group332 .group331 .news-text {
+  font-family: "Exo 2";
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 26px;
+  text-transform: uppercase;
+  color: #ffffff;
+  /* Add other styles for the news text */
+}
+.group332 .group331 .rectangle-134 {
+  width: 140px;
+  height: 37px;
+  top: 89px;
+  left: 911px;
+  position: absolute;
+  background: #ee4700;
+  border-radius: 50px;
+  /* Add other styles for the rectangle */
 }
 .group332 .group330 {
   position: absolute;
@@ -367,7 +415,7 @@
   right: 0%;
   top: 0%;
   bottom: 0%;
-  background: #1C2D3A;
+  background: #1c2d3a;
   /* Additional styling for Rectangle 114 */
 }
 
