@@ -323,7 +323,7 @@
   right: 8.32%;
   top: 8.66%;
   bottom: 8.68%;
-  border: 1.5px solid #FFFFFF;
+  border: 1.5px solid #ffffff;
 }
 .group332 .group330 .games-text {
   position: absolute;
@@ -365,6 +365,77 @@
   left: 130px;
   border: [object Object] px [object Object] px [object Object] px [object Object] px solid #008aee;
   background-color: blue;
+}
+.group332 .group327 .icon-linear-setting2 {
+  position: absolute;
+  width: 24px;
+  height: 24px;
+  top: 95px;
+  left: 145px;
+  left: 10.07%;
+  right: 88.26%;
+  top: 64.63%;
+  bottom: 19.05%;
+}
+.group332 .group327 .icon-linear-setting2 .vector-linearsetting {
+  position: absolute;
+  width: 20.01px;
+  height: 18.88px;
+  top: 2.56px;
+  left: 2px;
+  left: 8.33%;
+  right: 8.29%;
+  top: 10.67%;
+  bottom: 10.67%;
+  border: 1.5px solid #ffffff;
+}
+.group332 .group327 .icon-linear-setting2 .vector-linearsetting1 {
+  position: absolute;
+  width: 6px;
+  height: 6px;
+  top: 9px;
+  left: 9px;
+  left: 37.5%;
+  right: 37.5%;
+  top: 37.5%;
+  bottom: 37.5%;
+  border: 1.5px solid #ffffff;
+}
+.group332 .group327 .autoparts-text {
+  position: absolute;
+  width: 100px;
+  height: 26px;
+  top: 94px;
+  left: 179px;
+  left: 12.43%;
+  right: 80.62%;
+  top: 63.95%;
+  bottom: 18.37%;
+  font-family: "Exo 2";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 26px;
+  /* identical to box height, or 144% */
+  text-align: center;
+  text-transform: uppercase;
+  color: #ffffff;
+}
+.group332 .group327 .rectangle-134-327 {
+  box-sizing: border-box;
+  position: absolute;
+  width: 172px;
+  height: 37px;
+  top: 89px;
+  left: 130px;
+  left: 9.03%;
+  right: 79.03%;
+  top: 60.54%;
+  bottom: 14.29%;
+  background: #008aee;
+  /* blue */
+  border: 1px solid #008aee;
+  border-radius: 50px;
 }
 .group332 .group326 {
   position: absolute;
