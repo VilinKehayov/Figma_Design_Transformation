@@ -1,4 +1,3 @@
-/* styles.scss */
 .container {
   position: relative;
   width: 1440px;
@@ -53,6 +52,26 @@
   transform: rotate(90deg);
   cursor: pointer;
 }
+.group460 .vector-21 {
+  position: absolute;
+  width: 14.96px;
+  height: 6.32px;
+  left: 996.68px;
+  top: 2651.96px;
+  border: 2px solid #FFFFFF;
+  transform: rotate(-90deg);
+}
+.group460 .ellipse-16 {
+  position: absolute;
+  width: 45px;
+  height: 45px;
+  left: 1021px;
+  top: 2622px;
+  box-sizing: border-box;
+  background: rgba(23, 141, 235, 0.15);
+  border: 1px solid #008AEE;
+  transform: rotate(90deg);
+}
 
 .group321 {
   position: absolute;
@@ -62,6 +81,34 @@
   top: 2692.96px;
   transform: rotate(-90deg);
   cursor: pointer;
+}
+.group321 .image-1 {
+  position: absolute;
+  width: 14.96px;
+  height: 6.32px;
+  left: 744.32px;
+  top: 2678px;
+  border: 2px solid #008AEE;
+  transform: rotate(90deg);
+}
+.group321 .image-2 {
+  position: absolute;
+  width: 14.96px;
+  height: 6.32px;
+  left: 708.32px;
+  top: 2637.04px;
+  border: 2px solid #FFFFFF;
+  transform: rotate(90deg);
+}
+.group321 .image-3 {
+  position: absolute;
+  width: 45px;
+  height: 45px;
+  left: 0;
+  top: 0;
+  background: rgba(23, 141, 235, 0.15);
+  border: 1px solid #008AEE;
+  transform: rotate(-90deg);
 }
 
 .text-from2 {
@@ -97,6 +144,36 @@
   left: 800px;
   top: 2622px;
 }
+.group459 .image-1 {
+  position: absolute;
+  width: 15px;
+  height: 6.32px;
+  left: 870px;
+  top: 2641.37px;
+  border: 2px solid #231F20;
+}
+.group459 .image-2 {
+  position: absolute;
+  width: 24px;
+  height: 16px;
+  left: 819px;
+  top: 2637px;
+  font-family: "Roboto";
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 18px;
+  color: #000000;
+}
+.group459 .image-3 {
+  position: absolute;
+  width: 105px;
+  height: 45px;
+  left: 800px;
+  top: 2622px;
+  border: 1px solid #008AEE;
+  border-radius: 50px;
+  background-color: blue;
+}
 
 .group458 {
   position: absolute;
@@ -104,6 +181,28 @@
   height: 44px;
   left: 988px;
   top: 14px;
+}
+.group458 .e-text {
+  position: absolute;
+  width: 12px;
+  height: 20px;
+  left: 1004px;
+  top: 26px;
+  font-family: "Roboto";
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 20px;
+  text-align: center;
+  text-transform: uppercase;
+  color: #FFFFFF;
+}
+.group458 .ellipse8 {
+  position: absolute;
+  width: 44px;
+  height: 44px;
+  left: 0;
+  top: 0;
+  background: #008AEE;
 }
 
 .group332 {
@@ -242,28 +341,6 @@
   height: 45px;
   left: 1039px;
   top: 195px;
-}
-
-.vector-21 {
-  position: absolute;
-  width: 14.96px;
-  height: 6.32px;
-  left: 996.68px;
-  top: 2651.96px;
-  border: 2px solid #FFFFFF;
-  transform: rotate(-90deg);
-}
-
-.ellipse-16 {
-  position: absolute;
-  width: 45px;
-  height: 45px;
-  left: 1021px;
-  top: 2622px;
-  box-sizing: border-box;
-  background: rgba(23, 141, 235, 0.15);
-  border: 1px solid #008AEE;
-  transform: rotate(90deg);
 }
 
 /*# sourceMappingURL=main.css.map */
